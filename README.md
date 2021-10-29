@@ -1,6 +1,3 @@
-# ADS_2020.1
-
-
 <h1 align="center">Trabalho Final de ADS</h1>
 
 <p align="center">Códigos usados no desenvolvimento do trabalho final da disciplina de  Análise de Desempenho de Sistemas comparando o desempenho dos algoritmos de enfileiramento FIFO e RED e suas influências sobre a autossimilaridade. Este projeto é uma evolução em relação ao trabalho desenvolvido no meu TCC (disponível em: https://github.com/JorgeMagno/tcc_2018_ufc_quixada/tree/main), pois neste agora é possível criar o intervalo de confiança. Os arquivos droptail.cc red.cc criam e executam os cenários que geram arquivos .tr. Já o script.sh extrai inforações de recebimento de mensagens contidas no arquivo .tr guardando-as em um documento de texto.</p>
